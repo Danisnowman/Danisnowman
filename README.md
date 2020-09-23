@@ -9,7 +9,7 @@
 
 <p align="center">
 
-<a href="https://twitter.com/snowminal" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="danisnowman" height="30" width="30" /></a>
+<a href="https://twitter.com/danisnowman" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="danisnowman" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/danisnowman" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="danisnowman" height="30" width="30" /></a>
 <a href="https://instagram.com/danisowman" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="danisnowman" height="30" width="30" /></a>
 </p>
