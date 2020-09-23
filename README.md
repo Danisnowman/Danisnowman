@@ -5,7 +5,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danisnowman&layout=compact&hide=html" alt="danisnowman" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danisnowmans&show_icons=true" alt="danisnowman" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danisnowman&show_icons=true" alt="danisnowman" /></p>
 
 <p align="center">
 
